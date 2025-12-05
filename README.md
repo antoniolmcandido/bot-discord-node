@@ -1,4 +1,4 @@
-![Active Developer](https://github.com/antoniolmcandido/bot-discord-node/assets/49127376/17770e3d-dd86-4044-9969-7adcfc3ebff3)
+![Active Developer](https://github.com/IgorKowalczyk/active-dev/assets/49127376/17770e3d-dd86-4044-9969-7adcfc3ebff3)
 
 <div align="center">
   <a aria-label="GitHub License" href="https://github.com/antoniolmcandido/bot-discord-node/blob/master/license.md">
